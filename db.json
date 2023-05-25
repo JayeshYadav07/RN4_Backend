@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "Jayesh",
+      "email": "jayeshyadav8080@gmail.com",
+      "password": "Jayesh",
+      "isdoctor": false,
+      "id": 3
+    },
+    {
+      "username": "1",
+      "email": "1@gmail.com",
+      "password": "1",
+      "isdoctor": true,
+      "id": 4
+    }
+  ],
+  "appointments": []
+}
